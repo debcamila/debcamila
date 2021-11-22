@@ -13,4 +13,4 @@ Sou formada em Ciência da Computação na Universidade Católica de Pernambuco 
 ### GitHub Stats e Linguagens
 |GitHub Stats|Linguagens|
 |:---:|:---:|
-|[![debcamila's github stats](https://github-readme-stats.vercel.app/api?username=debcamila&count_private=true&show_icons=true)](https://github.com/debcamila/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debcamila&hide=Rich%20Text%20Format,scheme,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact)](https://github.com/SelimHorri/github-readme-stats)|
+|![debcamila's github stats](https://github-readme-stats.vercel.app/api?username=debcamila&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debcamila&hide=TeX&layout=compact)
