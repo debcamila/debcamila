@@ -1,6 +1,8 @@
 ## Olá, me chamo Deborah Camila! 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/debcamila)](https://github.com/debcamila)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debcamila/)](https://www.linkedin.com/in/debcamila/)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/7295801510740463)](http://lattes.cnpq.br/7295801510740463)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/debcamila)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/debcamila)](https://www.behance.net/debcamila)
 
 Sou formada em Ciência da Computação na Universidade Católica de Pernambuco (UNICAP) e atualmente trabalho como desenvolvedora Front-end.
